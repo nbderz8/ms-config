@@ -1,0 +1,14 @@
+
+    build:
+      version: "8.0"
+
+    card:
+    message: "Welcome to Jim's Bank account related API"
+    contactDetails:
+      name: "Chip Doe - Developer"
+      email: "chip@email.com"
+    onCallSupport:
+      -(123)123-1234
+      -(234)234-2345
+
+

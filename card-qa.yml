@@ -1,0 +1,12 @@
+
+  build:
+    version: "9.0"
+
+  card:
+    message: "Welcome to Jim's Bank account related API"
+    contactDetails:
+      name: "Chuck = QA Lead"
+      email: "chuck@email.com"
+    onCallSupport:
+      -(123)123-1234
+      -(234)234-2345

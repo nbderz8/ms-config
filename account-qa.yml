@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+account:
+  message: "Welcome to Jim's Bank account related API"
+  contactDetails:
+    name: "John = QA Lead"
+    email: "john@email.com"
+  onCallSupport:
+    -(123)123-1234
+    -(234)234-2345
