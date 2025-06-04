@@ -4,7 +4,7 @@ build:
   version: "1.0"
 
 account:
-  message: "Welcome to Jim's Bank account related API"
+  message: "Welcome to Jim's Bank account production related API"
   contactDetails:
     name: "Joe - Product Owner"
     email: "joe@email.com"
