@@ -5,9 +5,9 @@ build:
   version: "6.0"
 
 loan:
-  message: "Welcome to Jim's Bank account related API"
+  message: "Welcome to Jim's Bank account related API for production"
   contactDetails:
-    name: "Larry - Product Owner"
+    name: "Larry and Larry - Product Owner"
     email: "larry@email.com"
   onCallSupport:
     -(123)123-1234
