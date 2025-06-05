@@ -5,8 +5,8 @@
     account:
     message: "Welcome to Jim's Bank account related API"
     contactDetails:
-      name: "Jim Doe - Developer"
-      email: "jim@email.com"
+      name: "Jim Leo - Developer"
+      email: "jim.lea@email.com"
     onCallSupport:
       -(123)123-1234
       -(234)234-2345
