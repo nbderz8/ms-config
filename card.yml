@@ -5,7 +5,7 @@
     card:
     message: "Welcome to Jim's Bank account related API"
     contactDetails:
-      name: "Chip  and Dale - Developer"
+      name: "Chip  and Dale - Dancers"
       email: "chip@email.com"
     onCallSupport:
       -(123)123-1234
